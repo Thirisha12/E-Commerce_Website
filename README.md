@@ -21,13 +21,13 @@ Welcome to our e-commerce website project! This project aims to provide a user-f
 ├── favicons_assets/
 
 
-│   ├── men.png
+│     ├── men.png
 
 
-│   ├── women.png
+│     ├── women.png
 
 
-│   ├── kid.png
+│     ├── kid.png
 
 
 ├── index.html
