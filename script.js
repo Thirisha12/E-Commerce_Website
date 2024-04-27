@@ -57,7 +57,10 @@ function displayCard(product) {
                     ? product.title
                     : product.title.substring(0, 12) + ".."
                 }</span>
-                <p style="color:lightblack;"><img style="width:7px;height:7px;margin-right:15px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Location_dot_black.svg/1024px-Location_dot_black.svg.png">${product.vendor}</p>
+                <p style="color:lightblack;">
+                  <img style="width:7px;height:7px;margin-right:15px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Location_dot_black.svg/1024px-Location_dot_black.svg.png">
+                  ${product.vendor}
+                </p>
             </div>
             <div>
                 <div class="price-detail">
