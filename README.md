@@ -31,8 +31,14 @@ Welcome to our e-commerce website project! This project aims to provide a user-f
 
 
 ├── index.html
+
+
 ├── style.css
+
+
 ├── script.js
+
+
 └── README.md
 
   
