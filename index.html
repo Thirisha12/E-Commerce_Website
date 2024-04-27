@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="nav-tab">
+        <h1 class="title">SELECT YOUR CHOICE</h1>
+
+        <div class="tab">
+            <button style="width:250px;" class="tablinks" onclick="openCity(event, 'Men')">
+                <img class=fav-img id="men-icon" src="./favicons_assets/men.png">
+                <span>Men</span>
+            </button>
+            <button style="width:250px;" class="tablinks" onclick="openCity(event, 'Women')">
+                <img class=fav-img id="women-icon" src="./favicons_assets/women.png">Women</button>
+            <button style="width:250px;" class="tablinks" onclick="openCity(event, 'Kids')"><img class=fav-img id="kids-icon"
+                    src="./favicons_assets/kid.png">Kids</button>
+        </div>
+
+        <div id="Men" class="tabcontent">
+        </div>
+        <div id="Women" class="tabcontent">
+        </div>
+        <div id="Kids" class="tabcontent">
+
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
