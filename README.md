@@ -14,5 +14,16 @@ Welcome to our e-commerce website project! This project aims to provide a user-f
 - **HTML5:** Markup language for structuring the website.
 - **CSS3:** Stylesheet language for styling the website's layout and design.
 - **JavaScript (ES6+):** Programming language for interactive features and dynamic content.
+
+  e-commerce-website/
+├── favicons_assets/
+│   ├── men.png
+│   ├── women.png
+│   ├── kid.png
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
   
 
