@@ -3,7 +3,7 @@
 Welcome to our e-commerce website project! This project aims to provide a user-friendly platform for browsing and purchasing various fashion products for men, women, and kids.
 
 ## Hosted on the website :
-  link: https://thirisha12.github.io/InternProject/
+  link: https://thirisha12.github.io/E-Commerce_Website/
 ## Features
 
 - **Responsive Design:** The website is optimized for different screen sizes, ensuring a seamless browsing experience across devices.
